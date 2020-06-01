@@ -23,7 +23,7 @@
 
 <h3>Landing Page</h3>
 
-![landing-page](client\public\landing-page.gif)
+![Landing-Page](client/public/landing-page.gif)
 
 <p>Users are placed on the landing page. By default, they can view the 20 latest trending movies. They can also click load more to view more movies.</p>
 
@@ -35,7 +35,7 @@
 
 <h3>Movie Details Page</h3>
 
-![movie-details-page](client\public\movie-details-page.gif)
+![movie-details-page](client/public/movie-details-page.gif)
 
 <p>If a user clicks on a specific movie, they can view related information in a table. They can also view the cast of the movie</p>
 
@@ -46,7 +46,7 @@
 
 <h3>Comments Section</h3>
 
-![comments-section](client\public\comments-section.gif)
+![comments-section](client/public/comments-section.gif)
 
 <p>Users can leave comments on a movie. They can also reply to specific comments left by other users. Lastly, they can also like or dislike comments.</p>
 
